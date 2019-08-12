@@ -1,5 +1,5 @@
 import React from "react";
-import { Heading, Slide, List, ListItem, GoToAction } from "spectacle";
+import { Heading, Slide, List, ListItem } from "spectacle";
 
 export default class Slide2 extends React.Component {
   render() {

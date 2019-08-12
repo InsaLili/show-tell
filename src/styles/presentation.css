@@ -1,0 +1,27 @@
+iframe{
+    height: 80vh;
+    width: 1300px;
+    margin-left: -150px;
+}
+
+.spectacle-content{
+    max-height: 90vh!important;
+}
+
+.kitchensink-demo{
+    height: 80vh;
+    width: 1300px;
+    margin-left: -150px;
+    background-color: white;
+    text-align: left;
+    overflow: hidden;
+    padding: 40px 40px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.subtitle-demo{
+    float: right;
+    font-size: 22px!important;
+    color: white;
+}

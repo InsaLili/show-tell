@@ -1,13 +1,13 @@
 // Import React
 import React from 'react';
-import Slide1 from './1.js';
-import Slide2 from './2.js';
-import Slide3 from './3.js';
-import Slide31 from './3-1.js';
-import Slide4 from './4.js';
-import Slide5 from './5.js';
-import Slide6 from './6.js';
-import Slide7 from './7.js';
+import Slide1 from './slides/1.js';
+import Slide2 from './slides/2.js';
+import Slide3 from './slides/3.js';
+import Slide31 from './slides/3-1.js';
+import Slide4 from './slides/4.js';
+import Slide5 from './slides/5.js';
+import Slide6 from './slides/6.js';
+import Slide7 from './slides/7.js';
 // Import Spectacle Core tags
 import {
   BlockQuote,

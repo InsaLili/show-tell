@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@bdo/kitchensink": "0.0.22-ci.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "spectacle-scripts": "2.4.0"

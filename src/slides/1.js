@@ -1,7 +1,7 @@
 import React from "react";
 import { Heading, Slide, Image } from "spectacle";
 const images = {
-  ijs: require("./assets/ijs.jpeg")
+  ijs: require("../assets/ijs.jpeg")
 };
 export default class Slide1 extends React.Component {
   render() {

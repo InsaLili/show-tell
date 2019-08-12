@@ -3,8 +3,9 @@ import PropTypes from 'prop-types';
 import ReactDOM from 'react-dom';
 import { AppContainer } from 'react-hot-loader';
 import Redbox from 'redbox-react';
-
 import Presentation from './presentation';
+import '@bdo/kitchensink/lib/styles/index.core.css'
+import './styles/presentation.css';
 
 const CustomErrorReporter = ({ error }) => <Redbox error={error} />;
 

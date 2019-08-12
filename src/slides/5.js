@@ -8,7 +8,11 @@ export default class Slide5 extends React.Component {
         <Heading size={5} textColor="secondary">
           JamStack
         </Heading>
-        <iframe src="https://jamstack.org/" style={{width: 1300, height: 600, marginLeft: -150}}></iframe>
+        <iframe
+          title="JamStack"
+          src="https://jamstack.org/"
+          style={{ width: 1300, height: 600, marginLeft: -150 }}
+        />
       </Slide>
     );
   }
